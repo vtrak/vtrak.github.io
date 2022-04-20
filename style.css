@@ -1,0 +1,111 @@
+.bg-light-green{
+  background: #00DBBB;
+}
+
+.btn{
+  padding: 8px 30px;
+  font-size: 28px;
+  font-weight: 700;
+  border-radius: 23px;
+}
+
+.btn-primary{
+  background: #212A42;
+  border-color: #212A42;
+  color: #00DBBB;
+}
+
+.btn-primary:hover{
+  background-color: #394974;
+  border-color: #394974;
+  color: #00DBBB;
+}
+
+.btn-secondary{
+  background: #00DBBB;
+  border-color: #00DBBB;
+  color: #fff;
+  font-size: 35px;
+  font-weight: 700;
+  
+}
+
+/* Header */
+.header-content{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.top-btn {
+  cursor:pointer;
+  /* display:inline-block; */
+  padding:5px 15px;
+  background: #00DBBB;
+  color: #fff;
+  font-size: 20px;
+
+}
+
+.link-style{
+  float: right;
+  background: #212A42;
+  padding: 10px;
+  border-radius: 10%;
+  width:45%;
+  height:60%;
+  left:270px;
+  top:-15px;
+  text-decoration-color: green;
+}
+
+.bg-green{
+  width: 100%;
+  height:112px;
+  background: #00DBBB;
+  position: absolute;
+  bottom: -60px;
+  z-index: -2;
+}
+
+.bg-yellow{
+  width: 100%;
+  height:112px;
+  background: #FFF200;
+  position: absolute;
+  bottom: -60px;
+  z-index: -1;
+}
+
+.topright {
+  position: relative;
+  top: 10px;
+  right: 66px;
+  font-size: 18px;
+}
+
+.iconred {
+  width: 40px;
+  font-size:20px;
+}
+
+.logo{
+  height:150px;
+}
+
+.arrow{
+  width: 255px;
+  position:absolute;
+  top: -60px;
+  right:100px;
+  
+}
+
+.h2 {
+  font-size: 28px;
+}
